@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: gui-package
+Version: 0.1
+Summary: Example python package
+Home-page: UNKNOWN
+Author: Piotr Markiewicz
+Author-email: piotr.markiewicz@example.com
+License: MIT
+Description: Gui for tutorial
+Platform: UNKNOWN
