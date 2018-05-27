@@ -1,0 +1,8 @@
+setup.py
+GUI/CreateNewGuideUI.py
+GUI/MainFrameUI.py
+GUI/__init__.py
+guiPackage.egg-info/PKG-INFO
+guiPackage.egg-info/SOURCES.txt
+guiPackage.egg-info/dependency_links.txt
+guiPackage.egg-info/top_level.txt
